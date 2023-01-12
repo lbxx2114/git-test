@@ -16,5 +16,7 @@ public class GitTest {
         System.out.println("hot-fix修改了");
         //本地库推送到远程库测试
         System.out.println("测试666");
+        //艺高人胆大，直接把本地库删了，从远程库克隆项目
+        System.out.println("666");
     }
 }
