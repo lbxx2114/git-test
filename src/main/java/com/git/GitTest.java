@@ -10,5 +10,7 @@ public class GitTest {
         System.out.println("修改了1");
         System.out.println("修改了2");
         System.out.println("hot-fix分支修改了");
+        //合并冲突
+        System.out.println("hot-fix修改了");
     }
 }
