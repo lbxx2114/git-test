@@ -15,6 +15,6 @@ public class GitTest {
         //合并冲突
         System.out.println("hot-fix修改了");
         //本地库推送到远程库测试
-        System.out.println("测试");
+        System.out.println("测试666");
     }
 }
